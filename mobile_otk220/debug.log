@@ -1,0 +1,21 @@
+[0220/132542:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0220/132542:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0220/132543:ERROR:gpu_child_thread.cc(390)] Exiting GPU process due to errors during initialization
+[0220/140604:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0220/162819:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0220/173412:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0220/173412:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0220/173412:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0220/173412:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111231:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0221/111231:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111231:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0221/111231:ERROR:gpu_child_thread.cc(390)] Exiting GPU process due to errors during initialization
+[0221/111236:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111241:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111246:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111251:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0221/111256:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0228/110227:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0228/110227:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[0228/110227:ERROR:gpu_child_thread.cc(390)] Exiting GPU process due to errors during initialization
